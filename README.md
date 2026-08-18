@@ -4,11 +4,11 @@ This repository contains my student portfolio for the **Apex Creative Computing 
 
 ## Portfolio
 
-**[Open Portfolio](https://USERNAME.github.io/REPOSITORY-NAME/)**
+**[Open Portfolio](https://lposusta01.github.io/apex-portfolio/)**
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2027. After high school, I plan to attend university and pursue an education at the intersection of computer science and fine arts. I have a variety of interests including, but not limited to: music production, computer science and software engineering, visual arts (all media), and film.
 
 ## Portfolio Contents
 
@@ -18,10 +18,10 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 
 ## Featured Skills
 
-- [Skill]
-- [Skill]
-- [Skill]
-- [Skill]
+- Around a decade of Linux experience (Debian/Arch and derivatives)
+- Proficicent Rust and C/C++ programmer
+- Bilingual (English/Spanish) (STAMP Spanish score >6)
+- Experience with tools such as Git, Vim, Visual Studio Code, GCC, Make, bash, &c.
 
 ## Privacy and Safety
 
@@ -37,6 +37,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
-- **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **GitHub:** [@lposusta01](https://github.com/lposusta01)
+- **Email:** [lposusta01@bvsd.org]
+
